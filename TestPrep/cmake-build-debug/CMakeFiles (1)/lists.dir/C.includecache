@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Guy/Google Drive/workspace/C/TestPrep/Lists/list.c
+list.h
+/cygdrive/c/Users/Guy/Google Drive/workspace/C/TestPrep/Lists/list.h
+stdlib.h
+-
+stdio.h
+-
+
+/cygdrive/c/Users/Guy/Google Drive/workspace/C/TestPrep/Lists/list.h
+
+/cygdrive/c/Users/Guy/Google Drive/workspace/C/TestPrep/Lists/main.c
+stdio.h
+-
+string.h
+-
+list.h
+/cygdrive/c/Users/Guy/Google Drive/workspace/C/TestPrep/Lists/list.h
+

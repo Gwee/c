@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Guy/Google Drive/workspace/C/TestPrep/DynamicMemory/prototype.c
+stdio.h
+-
+stdarg.h
+-
+stdlib.h
+-
+

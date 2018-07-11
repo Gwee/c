@@ -1,0 +1,6 @@
+/cygdrive/c/Users/Guy/Google Drive/workspace/C/HW4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Guy/Google Drive/workspace/C/HW4/cmake-build-debug/CMakeFiles/q3.dir
+/cygdrive/c/Users/Guy/Google Drive/workspace/C/HW4/cmake-build-debug/CMakeFiles/q2.dir
+/cygdrive/c/Users/Guy/Google Drive/workspace/C/HW4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Guy/Google Drive/workspace/C/HW4/cmake-build-debug/CMakeFiles/q1.dir
+/cygdrive/c/Users/Guy/Google Drive/workspace/C/HW4/cmake-build-debug/CMakeFiles/HW4.dir

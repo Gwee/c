@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/prototype.dir/DynamicMemory/prototype.c.o  -o prototype.exe -Wl,--out-implib,libprototype.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

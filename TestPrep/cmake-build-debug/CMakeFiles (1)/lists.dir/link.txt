@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/lists.dir/Lists/main.c.o CMakeFiles/lists.dir/Lists/list.c.o  -o lists.exe -Wl,--out-implib,liblists.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/dynamic_mem.dir/DynamicMemory/test.c.o  -o dynamic_mem.exe -Wl,--out-implib,libdynamic_mem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

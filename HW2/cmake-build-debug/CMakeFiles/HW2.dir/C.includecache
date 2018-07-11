@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW2/main.c
+stdio.h
+-
+
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW2/q3.c
+stdio.h
+-
+
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW2/q4.c
+stdio.h
+-
+stdarg.h
+-
+

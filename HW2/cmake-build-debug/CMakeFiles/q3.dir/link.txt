@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/q3.dir/Q3/q3.c.o  -o q3.exe -Wl,--out-implib,libq3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

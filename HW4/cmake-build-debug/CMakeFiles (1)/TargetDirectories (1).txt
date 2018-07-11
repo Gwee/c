@@ -1,0 +1,6 @@
+/Volumes/GoogleDrive/My Drive/workspace/C/HW4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/HW4/cmake-build-debug/CMakeFiles/q3.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/HW4/cmake-build-debug/CMakeFiles/q2.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/HW4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/HW4/cmake-build-debug/CMakeFiles/q1.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/HW4/cmake-build-debug/CMakeFiles/HW4.dir

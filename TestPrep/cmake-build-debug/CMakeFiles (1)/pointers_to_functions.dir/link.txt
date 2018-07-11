@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/pointers_to_functions.dir/Pointers/pointer_to_functions.c.o  -o pointers_to_functions.exe -Wl,--out-implib,libpointers_to_functions.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

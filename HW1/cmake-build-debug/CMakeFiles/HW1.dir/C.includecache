@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW1/headers/utils.h
+
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW1/program.c
+stdio.h
+-
+headers/utils.h
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW1/headers/utils.h
+
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW1/source/checkIndices.c
+utils.h
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW1/source/utils.h
+
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW1/source/createNumByIdx.c
+utils.h
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW1/source/utils.h
+
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW1/source/createNumByReverseIdx.c
+utils.h
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW1/source/utils.h
+
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW1/source/findLength.c
+utils.h
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW1/source/utils.h
+
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW1/source/getDigit.c
+utils.h
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW1/source/utils.h
+
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW1/source/getNumAndCheckValidation.c
+utils.h
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW1/source/utils.h
+
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW1/source/getReverseDigit.c
+utils.h
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW1/source/utils.h
+

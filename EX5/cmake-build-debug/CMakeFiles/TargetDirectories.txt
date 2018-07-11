@@ -1,0 +1,3 @@
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/EX5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/EX5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/EX5/cmake-build-debug/CMakeFiles/EX5.dir

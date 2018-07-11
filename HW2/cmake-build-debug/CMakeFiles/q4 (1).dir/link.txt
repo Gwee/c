@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/q4.dir/Q4/q4.c.o  -o q4.exe -Wl,--out-implib,libq4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

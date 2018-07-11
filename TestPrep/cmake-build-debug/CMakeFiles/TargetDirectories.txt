@@ -1,0 +1,11 @@
+/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/CMakeFiles/sum_route.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/CMakeFiles/prototype.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/CMakeFiles/lists.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/CMakeFiles/pointers_to_functions.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/CMakeFiles/simple_Pointer.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/CMakeFiles/ellipses.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/CMakeFiles/char_array.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/CMakeFiles/dynamic_mem.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/CMakeFiles/TestPrep.dir

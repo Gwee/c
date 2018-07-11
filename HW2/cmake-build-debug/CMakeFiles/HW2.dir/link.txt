@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/HW2.dir/Q3/q3.c.o CMakeFiles/HW2.dir/Q4/q4.c.o CMakeFiles/HW2.dir/Q5/q5.c.o CMakeFiles/HW2.dir/Q6/q6.c.o  -o HW2 

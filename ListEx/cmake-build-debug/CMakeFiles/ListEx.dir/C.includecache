@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/GoogleDrive/My Drive/workspace/C/ListEx/List.h
+List.h
+/Volumes/GoogleDrive/My Drive/workspace/C/ListEx/List.h
+
+/Volumes/GoogleDrive/My Drive/workspace/C/ListEx/main.c
+stdio.h
+-
+List.h
+/Volumes/GoogleDrive/My Drive/workspace/C/ListEx/List.h
+

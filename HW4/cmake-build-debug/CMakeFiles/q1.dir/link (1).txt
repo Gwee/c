@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/q1.dir/q1/q1.c.o  -o q1.exe -Wl,--out-implib,libq1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/HW2.dir/Q3/q3.c.o CMakeFiles/HW2.dir/Q4/q4.c.o CMakeFiles/HW2.dir/Q5/q5.c.o CMakeFiles/HW2.dir/Q6/q6.c.o  -o HW2.exe -Wl,--out-implib,libHW2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

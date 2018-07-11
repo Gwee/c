@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/guy/Library/Mobile Documents/com~apple~CloudDocs/School/Netanya College/Computer Science/workspace/C/HW2/Q5/q5.c
+stdio.h
+-
+

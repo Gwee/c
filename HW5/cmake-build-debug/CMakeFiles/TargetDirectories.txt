@@ -1,0 +1,6 @@
+/Volumes/GoogleDrive/My Drive/workspace/C/HW5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/HW5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/HW5/cmake-build-debug/CMakeFiles/nodes.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/HW5/cmake-build-debug/CMakeFiles/ex2.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/HW5/cmake-build-debug/CMakeFiles/ex1.dir
+/Volumes/GoogleDrive/My Drive/workspace/C/HW5/cmake-build-debug/CMakeFiles/hw5.dir

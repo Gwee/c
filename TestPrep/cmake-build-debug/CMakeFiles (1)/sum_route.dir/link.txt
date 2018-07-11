@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/sum_route.dir/Lists/sum_route.c.o CMakeFiles/sum_route.dir/Lists/list.c.o  -o sum_route.exe -Wl,--out-implib,libsum_route.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Guy/Google Drive/workspace/C/TestPrep/Pointers/char_array.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+

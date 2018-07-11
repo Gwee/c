@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/s.dir/Pointers/simpleDoublePointer.c.o  -o s.exe -Wl,--out-implib,libs.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

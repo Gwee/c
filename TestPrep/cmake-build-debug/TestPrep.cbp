@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TestPrep"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sum_route">
+				<Option output="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/sum_route" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 sum_route"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sum_route/fast">
+				<Option output="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/sum_route" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 sum_route/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="prototype">
+				<Option output="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/prototype" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 prototype"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="prototype/fast">
+				<Option output="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/prototype" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 prototype/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lists">
+				<Option output="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/lists" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 lists"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lists/fast">
+				<Option output="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/lists" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 lists/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pointers_to_functions">
+				<Option output="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/pointers_to_functions" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 pointers_to_functions"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pointers_to_functions/fast">
+				<Option output="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/pointers_to_functions" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 pointers_to_functions/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="simple_Pointer">
+				<Option output="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/simple_Pointer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 simple_Pointer"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="simple_Pointer/fast">
+				<Option output="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/simple_Pointer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 simple_Pointer/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ellipses">
+				<Option output="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/ellipses" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 ellipses"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ellipses/fast">
+				<Option output="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/ellipses" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 ellipses/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="char_array">
+				<Option output="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/char_array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 char_array"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="char_array/fast">
+				<Option output="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/char_array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 char_array/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dynamic_mem">
+				<Option output="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/dynamic_mem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 dynamic_mem"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dynamic_mem/fast">
+				<Option output="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/dynamic_mem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 dynamic_mem/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TestPrep">
+				<Option output="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/TestPrep" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 TestPrep"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TestPrep/fast">
+				<Option output="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug/TestPrep" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 TestPrep/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/GoogleDrive/My\ Drive/workspace/C/TestPrep/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/DynamicMemory/prototype.c">
+			<Option target="prototype"/>
+		</Unit>
+		<Unit filename="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/DynamicMemory/test.c">
+			<Option target="dynamic_mem"/>
+		</Unit>
+		<Unit filename="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/Ellipses/ellipses.c">
+			<Option target="ellipses"/>
+		</Unit>
+		<Unit filename="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/Lists/list.c">
+			<Option target="sum_route"/>
+			<Option target="lists"/>
+		</Unit>
+		<Unit filename="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/Lists/list.h">
+			<Option target="sum_route"/>
+			<Option target="lists"/>
+		</Unit>
+		<Unit filename="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/Lists/main.c">
+			<Option target="lists"/>
+		</Unit>
+		<Unit filename="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/Lists/sum_route.c">
+			<Option target="sum_route"/>
+		</Unit>
+		<Unit filename="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/Pointers/char_array.c">
+			<Option target="char_array"/>
+		</Unit>
+		<Unit filename="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/Pointers/pointer_to_functions.c">
+			<Option target="pointers_to_functions"/>
+		</Unit>
+		<Unit filename="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/Pointers/simpleDoublePointer.c">
+			<Option target="simple_Pointer"/>
+		</Unit>
+		<Unit filename="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/main.c">
+			<Option target="TestPrep"/>
+		</Unit>
+		<Unit filename="/Volumes/GoogleDrive/My Drive/workspace/C/TestPrep/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
